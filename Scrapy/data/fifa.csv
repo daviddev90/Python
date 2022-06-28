@@ -1,0 +1,737 @@
+name,country,position
+GUZMANNahuel1,Argentina,Goalkeeper
+GabrielMERCADO2,Argentina,Defender
+NicolasTAGLIAFICO3,Argentina,Defender
+CristianANSALDI4,Argentina,Defender
+LucasBIGLIA5,Argentina,Midfield
+FedericoFAZIO6,Argentina,Defender
+EverBANEGA7,Argentina,Midfield
+MarcosACUNA8,Argentina,Defender
+GonzaloHIGUAIN9,Argentina,Forward
+LionelMESSI10,Argentina,Forward
+AngelDI MARIA11,Argentina,Midfield
+FrancoARMANI12,Argentina,Goalkeeper
+MaximilianoMEZA13,Argentina,Midfield
+JavierMASCHERANO14,Argentina,Defender
+EnzoPEREZ15,Argentina,Midfield
+MarcosROJO16,Argentina,Defender
+NicolasOTAMENDI17,Argentina,Defender
+EduardoSALVIO18,Argentina,Defender
+SergioAGUERO19,Argentina,Forward
+GiovaniLO CELSO20,Argentina,Midfield
+PauloDYBALA21,Argentina,Forward
+CristianPAVON22,Argentina,Midfield
+WilfredoCABALLERO23,Argentina,Goalkeeper
+MathewRYAN1,Australia,Goalkeeper
+MilosDEGENEK2,Australia,Defender
+JamesMEREDITH3,Australia,Defender
+TimCAHILL4,Australia,Forward
+MarkMILLIGAN5,Australia,Defender
+MatthewJURMAN6,Australia,Defender
+MathewLECKIE7,Australia,Forward
+MassimoLUONGO8,Australia,Midfield
+TomiJURIC9,Australia,Forward
+RobbieKRUSE10,Australia,Forward
+AndrewNABBOUT11,Australia,Forward
+BradJONES12,Australia,Goalkeeper
+AaronMOOY13,Australia,Midfield
+JamieMacLAREN14,Australia,Forward
+MileJEDINAK15,Australia,Midfield
+AzizBEHICH16,Australia,Defender
+DanielARZANI17,Australia,Forward
+DannyVUKOVIC18,Australia,Goalkeeper
+JoshuaRISDON19,Australia,Defender
+TrentSAINSBURY20,Australia,Defender
+DimitriosPETRATOS21,Australia,Forward
+JacksonIRVINE22,Australia,Midfield
+TomROGIC23,Australia,Midfield
+ThibautCOURTOIS1,Belgium,Goalkeeper
+TobyALDERWEIRELD2,Belgium,Defender
+ThomasVERMAELEN3,Belgium,Defender
+VincentKOMPANY4,Belgium,Defender
+JanVERTONGHEN5,Belgium,Defender
+AxelWITSEL6,Belgium,Midfield
+KevinDE BRUYNE7,Belgium,Midfield
+MarouaneFELLAINI8,Belgium,Midfield
+RomeluLUKAKU9,Belgium,Forward
+EdenHAZARD10,Belgium,Forward
+YannickCARRASCO11,Belgium,Midfield
+SimonMIGNOLET12,Belgium,Goalkeeper
+KoenCASTEELS13,Belgium,Goalkeeper
+DriesMERTENS14,Belgium,Forward
+ThomasMEUNIER15,Belgium,Defender
+ThorganHAZARD16,Belgium,Midfield
+YouriTIELEMANS17,Belgium,Midfield
+AdnanJANUZAJ18,Belgium,Forward
+MoussaDEMBELE19,Belgium,Midfield
+DedryckBOYATA20,Belgium,Defender
+MichyBATSHUAYI21,Belgium,Forward
+NacerCHADLI22,Belgium,Midfield
+LeanderDENDONCKER23,Belgium,Defender
+ALISSON1,Brazil,Goalkeeper
+THIAGOSILVA2,Brazil,Defender
+MIRANDA3,Brazil,Defender
+PEDROGEROMEL4,Brazil,Defender
+CASEMIRO5,Brazil,Midfield
+FILIPELUIS6,Brazil,Defender
+DOUGLASCOSTA7,Brazil,Forward
+RENATOAUGUSTO8,Brazil,Midfield
+GABRIELJESUS9,Brazil,Forward
+NEYMAR10,Brazil,Forward
+PHILIPPECOUTINHO11,Brazil,Midfield
+MARCELO12,Brazil,Defender
+MARQUINHOS13,Brazil,Defender
+DANILO14,Brazil,Defender
+PAULINHO15,Brazil,Midfield
+CASSIO16,Brazil,Goalkeeper
+FERNANDINHO17,Brazil,Midfield
+FRED18,Brazil,Midfield
+WILLIAN19,Brazil,Midfield
+ROBERTOFIRMINO20,Brazil,Forward
+TAISON21,Brazil,Forward
+FAGNER22,Brazil,Defender
+EDERSON23,Brazil,Goalkeeper
+DavidOSPINA1,Colombia,Goalkeeper
+CristianZAPATA2,Colombia,Defender
+OscarMURILLO3,Colombia,Defender
+SantiagoARIAS4,Colombia,Defender
+WilmarBARRIOS5,Colombia,Midfield
+CarlosSANCHEZ6,Colombia,Midfield
+CarlosBACCA7,Colombia,Forward
+AbelAGUILAR8,Colombia,Midfield
+RadamelFALCAO9,Colombia,Forward
+JamesRODRIGUEZ10,Colombia,Midfield
+JuanCUADRADO11,Colombia,Midfield
+CamiloVARGAS12,Colombia,Goalkeeper
+YerryMINA13,Colombia,Defender
+LuisMURIEL14,Colombia,Forward
+MateusURIBE15,Colombia,Midfield
+Jefferson LERMA16,Colombia,Midfield
+JohanMOJICA17,Colombia,Defender
+FaridDIAZ18,Colombia,Defender
+MiguelBORJA19,Colombia,Forward
+JuanQUINTERO20,Colombia,Midfield
+JoseIZQUIERDO21,Colombia,Forward
+JoseCUADRADO22,Colombia,Goalkeeper
+DavinsonSANCHEZ23,Colombia,Defender
+KeylorNAVAS1,Costa Rica,Goalkeeper
+JohnnyACOSTA2,Costa Rica,Defender
+GiancarloGONZALEZ3,Costa Rica,Defender
+IanSMITH4,Costa Rica,Defender
+CelsoBORGES5,Costa Rica,Midfield
+OscarDUARTE6,Costa Rica,Defender
+ChristianBOLANOS7,Costa Rica,Midfield
+BryanOVIEDO8,Costa Rica,Defender
+DanielCOLINDRES9,Costa Rica,Midfield
+BryanRUIZ10,Costa Rica,Midfield
+JohanVENEGAS11,Costa Rica,Forward
+JoelCAMPBELL12,Costa Rica,Forward
+RodneyWALLACE13,Costa Rica,Midfield
+RandallAZOFEIFA14,Costa Rica,Midfield
+FranciscoCALVO15,Costa Rica,Defender
+CristianGAMBOA16,Costa Rica,Defender
+YeltsinTEJEDA17,Costa Rica,Midfield
+PatrickPEMBERTON18,Costa Rica,Goalkeeper
+KendallWASTON19,Costa Rica,Defender
+DavidGUZMAN20,Costa Rica,Midfield
+MarcosURENA21,Costa Rica,Forward
+KennerGUTIERREZ22,Costa Rica,Defender
+LeonelMOREIRA23,Costa Rica,Goalkeeper
+DominikLIVAKOVIC1,Croatia,Goalkeeper
+SimeVRSALJKO2,Croatia,Defender
+IvanSTRINIC3,Croatia,Defender
+IvanPERISIC4,Croatia,Forward
+VedranCORLUKA5,Croatia,Defender
+DejanLOVREN6,Croatia,Defender
+IvanRAKITIC7,Croatia,Midfield
+MateoKOVACIC8,Croatia,Midfield
+AndrejKRAMARIC9,Croatia,Forward
+LukaMODRIC10,Croatia,Midfield
+MarceloBROZOVIC11,Croatia,Midfield
+LovreKALINIC12,Croatia,Goalkeeper
+TinJEDVAJ13,Croatia,Defender
+FilipBRADARIC14,Croatia,Midfield
+DujeCALETA-CAR15,Croatia,Defender
+NikolaKALINIC16,Croatia,Forward
+MarioMANDZUKIC17,Croatia,Forward
+AnteREBIC18,Croatia,Forward
+MilanBADELJ19,Croatia,Midfield
+MarkoPJACA20,Croatia,Forward
+DomagojVIDA21,Croatia,Defender
+JosipPIVARIC22,Croatia,Defender
+DanijelSUBASIC23,Croatia,Goalkeeper
+Kasper SCHMEICHEL1,Denmark,Goalkeeper
+MichaelKROHN-DEHLI2,Denmark,Midfield
+JannikVESTERGAARD3,Denmark,Defender
+SimonKJAER4,Denmark,Defender
+JonasKNUDSEN5,Denmark,Defender
+AndreasCHRISTENSEN6,Denmark,Defender
+WilliamKVIST7,Denmark,Midfield
+ThomasDELANEY8,Denmark,Midfield
+NicolaiJORGENSEN9,Denmark,Forward
+ChristianERIKSEN10,Denmark,Midfield
+MartinBRAITHWAITE11,Denmark,Forward
+KasperDOLBERG12,Denmark,Forward
+Mathias JORGENSEN13,Denmark,Defender
+HenrikDALSGAARD14,Denmark,Defender
+ViktorFISCHER15,Denmark,Forward
+JonasLOSSL16,Denmark,Goalkeeper
+JensStryger LARSEN17,Denmark,Defender
+LukasLERAGER18,Denmark,Midfield
+LasseSCHONE19,Denmark,Midfield
+YussufYurary POULSEN20,Denmark,Forward
+AndreasCORNELIUS21,Denmark,Forward
+FrederikRONNOW22,Denmark,Goalkeeper
+PioneSISTO23,Denmark,Forward
+ESSAMELHADARY1,Egypt,Goalkeeper
+ALIGABR2,Egypt,Defender
+AHMEDELMOHAMADY3,Egypt,Defender
+OMARGABER4,Egypt,Midfield
+SAMMORSY5,Egypt,Midfield
+AHMEDHEGAZY6,Egypt,Defender
+AHMEDFATHI7,Egypt,Defender
+TAREKHAMED8,Egypt,Midfield
+MARWANMOHSEN9,Egypt,Forward
+MOHAMEDSALAH10,Egypt,Forward
+KAHRABA11,Egypt,Forward
+AYMANASHRAF12,Egypt,Defender
+MOHAMEDABDELSHAFY13,Egypt,Defender
+RAMADANSOBHY14,Egypt,Forward
+MAHMOUDHAMDY15,Egypt,Defender
+SHERIFEKRAMY16,Egypt,Goalkeeper
+MOHAMEDELNENY17,Egypt,Midfield
+SHIKABALA18,Egypt,Forward
+ABDALLASAID19,Egypt,Midfield
+SAADSAMIR 20,Egypt,Defender
+TREZIGUET21,Egypt,Midfield
+AMRWARDA22,Egypt,Forward
+MOHAMEDELSHENAWY23,Egypt,Goalkeeper
+JordanPICKFORD1,England,Goalkeeper
+KyleWALKER2,England,Defender
+DannyROSE3,England,Defender
+Eric DIER4,England,Midfield
+JohnSTONES5,England,Defender
+HarryMAGUIRE6,England,Defender
+Jesse LINGARD7,England,Midfield
+JordanHENDERSON8,England,Midfield
+HarryKANE9,England,Forward
+RaheemSTERLING10,England,Forward
+JamieVARDY11,England,Forward
+KieranTRIPPIER12,England,Defender
+JackBUTLAND13,England,Goalkeeper
+DannyWELBECK14,England,Forward
+GaryCAHILL15,England,Defender
+PhilJONES16,England,Defender
+FabianDELPH17,England,Defender
+Ashley YOUNG18,England,Defender
+MarcusRASHFORD19,England,Forward
+DeleALLI20,England,Midfield
+RubenLOFTUS-CHEEK21,England,Midfield
+TrentALEXANDER-ARNOLD22,England,Defender
+NickPOPE23,England,Goalkeeper
+HugoLLORIS1,France,Goalkeeper
+PAVARDBenjamin2,France,Defender
+PresnelKIMPEMBE3,France,Defender
+RaphaelVARANE4,France,Defender
+SamuelUMTITI5,France,Defender
+PaulPOGBA6,France,Midfield
+AntoineGRIEZMANN7,France,Forward
+ThomasLEMAR8,France,Forward
+OlivierGIROUD9,France,Forward
+KylianMBAPPE10,France,Forward
+OusmaneDEMBELE11,France,Forward
+TOLISSOCorentin12,France,Midfield
+NgoloKANTE13,France,Midfield
+BlaiseMATUIDI14,France,Midfield
+StevenNZONZI15,France,Midfield
+SteveMANDANDA16,France,Goalkeeper
+AdilRAMI17,France,Defender
+NabilFEKIR18,France,Forward
+DjibrilSIDIBE19,France,Defender
+FlorianTHAUVIN20,France,Forward
+HERNANDEZLucas21,France,Defender
+BenjaminMENDY22,France,Defender
+AlphonseAREOLA23,France,Goalkeeper
+NEUERManuel1,Germany,Goalkeeper
+MarvinPLATTENHARDT2,Germany,Defender
+JonasHECTOR3,Germany,Defender
+MatthiasGINTER4,Germany,Defender
+MatsHUMMELS5,Germany,Defender
+SamiKHEDIRA6,Germany,Midfield
+JulianDRAXLER7,Germany,Midfield
+ToniKROOS8,Germany,Midfield
+TimoWERNER9,Germany,Forward
+MesutOEZIL10,Germany,Midfield
+MarcoREUS11,Germany,Forward
+KevinTRAPP12,Germany,Goalkeeper
+MUELLERThomas13,Germany,Midfield
+GORETZKALeon14,Germany,Midfield
+SUELENiklas15,Germany,Defender
+AntonioRUEDIGER16,Germany,Defender
+BOATENGJerome17,Germany,Defender
+KIMMICHJoshua18,Germany,Defender
+SebastianRUDY19,Germany,Midfield
+JulianBRANDT20,Germany,Midfield
+IlkayGUENDOGAN21,Germany,Midfield
+Marc-AndreTER STEGEN22,Germany,Goalkeeper
+MarioGOMEZ23,Germany,Forward
+HannesHALLDORSSON1,Iceland,Goalkeeper
+BirkirSAEVARSSON2,Iceland,Defender
+SamuelFRIDJONSSON3,Iceland,Midfield
+AlbertGUDMUNDSSON4,Iceland,Midfield
+SverrirINGASON5,Iceland,Defender
+RagnarSIGURDSSON6,Iceland,Defender
+JohannGUDMUNDSSON7,Iceland,Midfield
+BirkirBJARNASON8,Iceland,Midfield
+BjornSIGURDARSON9,Iceland,Forward
+GylfiSIGURDSSON10,Iceland,Midfield
+AlfredFINNBOGASON11,Iceland,Forward
+FrederikSCHRAM12,Iceland,Goalkeeper
+RunarRUNARSSON13,Iceland,Goalkeeper
+KariARNASON14,Iceland,Defender
+HolmarEYJOLFSSON15,Iceland,Defender
+OlafurSKULASON16,Iceland,Midfield
+AronGUNNARSSON17,Iceland,Midfield
+HordurMAGNUSSON18,Iceland,Defender
+RurikGISLASON19,Iceland,Midfield
+EmilHALLFREDSSON20,Iceland,Midfield
+ArnorTRAUSTASON21,Iceland,Midfield
+JonBODVARSSON22,Iceland,Forward
+AriSKULASON23,Iceland,Defender
+AliBEIRANVAND1,IR Iran,Goalkeeper
+MahdiTORABI2,IR Iran,Midfield
+EhsanHAJI SAFI3,IR Iran,Defender
+RoozbehCHESHMI4,IR Iran,Defender
+MiladMOHAMMADI5,IR Iran,Defender
+SaeidEZATOLAHI6,IR Iran,Midfield
+MasoudSHOJAEI7,IR Iran,Midfield
+MortezaPOURALIGANJI8,IR Iran,Defender
+OmidEBRAHIMI9,IR Iran,Midfield
+KarimANSARIFARD10,IR Iran,Forward
+VahidAMIRI11,IR Iran,Midfield
+RashidMAZAHERI12,IR Iran,Goalkeeper
+MohammadReza KHANZADEH13,IR Iran,Defender
+SamanGHODDOS14,IR Iran,Forward
+PejmanMONTAZERI15,IR Iran,Defender
+RezaGHOOCHANNEJHAD16,IR Iran,Forward
+MehdiTAREMI17,IR Iran,Forward
+AlirezaJAHANBAKHSH18,IR Iran,Forward
+MajidHOSSEINI19,IR Iran,Defender
+SardarAZMOUN20,IR Iran,Forward
+AshkanDEJAGAH21,IR Iran,Forward
+AmirABEDZADEH22,IR Iran,Goalkeeper
+RaminREZAEIAN23,IR Iran,Defender
+EijiKAWASHIMA1,Japan,Goalkeeper
+NaomichiUEDA2,Japan,Defender
+GenSHOJI3,Japan,Defender
+KeisukeHONDA4,Japan,Midfield
+YutoNAGATOMO5,Japan,Defender
+WataruENDO6,Japan,Defender
+GakuSHIBASAKI7,Japan,Midfield
+GenkiHARAGUCHI8,Japan,Midfield
+ShinjiOKAZAKI9,Japan,Forward
+ShinjiKAGAWA10,Japan,Midfield
+TakashiUSAMI11,Japan,Midfield
+MasaakiHIGASHIGUCHI12,Japan,Goalkeeper
+YoshinoriMUTO13,Japan,Forward
+TakashiINUI14,Japan,Midfield
+YuyaOSAKO15,Japan,Forward
+HotaruYAMAGUCHI16,Japan,Midfield
+MakotoHASEBE17,Japan,Midfield
+RyotaOHSHIMA18,Japan,Midfield
+HirokiSAKAI19,Japan,Defender
+TomoakiMAKINO20,Japan,Defender
+GotokuSAKAI21,Japan,Defender
+MayaYOSHIDA22,Japan,Defender
+KosukeNAKAMURA23,Japan,Goalkeeper
+KIMSeunggyu1,Korea Republic,Goalkeeper
+LEEYong2,Korea Republic,Defender
+JUNGSeunghyun3,Korea Republic,Defender
+OHBansuk4,Korea Republic,Defender
+YUNYoungsun5,Korea Republic,Defender
+PARKJooho6,Korea Republic,Defender
+SONHeungmin7,Korea Republic,Forward
+JUSejong8,Korea Republic,Midfield
+KIMShinwook9,Korea Republic,Forward
+LEESeungwoo10,Korea Republic,Midfield
+HWANGHeechan11,Korea Republic,Forward
+KIMMinwoo12,Korea Republic,Defender
+KOOJacheol13,Korea Republic,Midfield
+HONGChul14,Korea Republic,Defender
+JUNGWooyoung15,Korea Republic,Midfield
+KISungyueng16,Korea Republic,Midfield
+LEEJaesung17,Korea Republic,Midfield
+MOONSeonmin18,Korea Republic,Midfield
+KIMYounggwon19,Korea Republic,Defender
+JANGHyunsoo20,Korea Republic,Defender
+KIMJinhyeon21,Korea Republic,Goalkeeper
+GOYohan22,Korea Republic,Defender
+JOHyeonwoo23,Korea Republic,Goalkeeper
+JoseCORONA1,Mexico,Goalkeeper
+AYALAHugo2,Mexico,Defender
+SALCEDOCarlos3,Mexico,Defender
+RafaelMARQUEZ4,Mexico,Defender
+ErickGUTIERREZ5,Mexico,Midfield
+JonathanDOS SANTOS6,Mexico,Midfield
+MiguelLAYUN7,Mexico,Midfield
+MarcoFABIAN8,Mexico,Forward
+RaulJIMENEZ9,Mexico,Forward
+GiovaniDOS SANTOS10,Mexico,Midfield
+CarlosVELA11,Mexico,Forward
+AlfredoTALAVERA12,Mexico,Goalkeeper
+GuillermoOCHOA13,Mexico,Goalkeeper
+JavierHERNANDEZ14,Mexico,Forward
+HectorMORENO15,Mexico,Defender
+HectorHERRERA16,Mexico,Defender
+JesusCORONA17,Mexico,Midfield
+AndresGUARDADO18,Mexico,Midfield
+OribePERALTA19,Mexico,Forward
+AQUINOJavier20,Mexico,Midfield
+EdsonALVAREZ21,Mexico,Defender
+Hirving LOZANO22,Mexico,Forward
+JesusGALLARDO23,Mexico,Midfield
+YassineBOUNOU1,Morocco,Goalkeeper
+AchrafHAKIMI2,Morocco,Defender
+HamzaMENDYL3,Morocco,Defender
+ManuelDA COSTA4,Morocco,Defender
+BENATIAMehdi5,Morocco,Defender
+GhanemSAISS6,Morocco,Defender
+HakimZIYECH7,Morocco,Midfield
+KarimEL AHMADI8,Morocco,Midfield
+AyoubEL KAABI9,Morocco,Forward
+YounesBELHANDA10,Morocco,Midfield
+FaycalFAJR11,Morocco,Midfield
+MonirEL KAJOUI12,Morocco,Goalkeeper
+KhalidBOUTAIB13,Morocco,Forward
+MbarkBOUSSOUFA14,Morocco,Midfield
+YoussefAIT BENNASSER15,Morocco,Midfield
+NoureddineAMRABAT16,Morocco,Midfield
+NabilDIRAR17,Morocco,Defender
+AmineHARIT18,Morocco,Midfield
+YoussefEN NESYRI19,Morocco,Forward
+AzizBOUHADDOUZ20,Morocco,Forward
+SofyanAMRABAT21,Morocco,Midfield
+AhmedTAGNAOUTI22,Morocco,Goalkeeper
+MehdiCARCELA23,Morocco,Midfield
+IkechukwuEZENWA1,Nigeria,Goalkeeper
+BryanIDOWU2,Nigeria,Defender
+EldersonECHIEJILE3,Nigeria,Defender
+WilfredNDIDI4,Nigeria,Midfield
+WilliamEKONG5,Nigeria,Defender
+LeonBALOGUN6,Nigeria,Defender
+AhmedMUSA7,Nigeria,Forward
+OghenekaroETEBO8,Nigeria,Midfield
+OdionIGHALO9,Nigeria,Forward
+JohnObi MIKEL10,Nigeria,Midfield
+VictorMOSES11,Nigeria,Forward
+AbdullahiSHEHU12,Nigeria,Defender
+SimeonNWANKWO13,Nigeria,Forward
+KelechiIHEANACHO14,Nigeria,Forward
+JoelOBI15,Nigeria,Midfield
+DanielAKPEYI16,Nigeria,Goalkeeper
+OgenyiONAZI17,Nigeria,Midfield
+AlexIWOBI18,Nigeria,Forward
+JohnOGU19,Nigeria,Midfield
+ChidozieAWAZIEM20,Nigeria,Defender
+TyronneEBUEHI21,Nigeria,Defender
+KennethOMERUO22,Nigeria,Defender
+FrancisUZOHO23,Nigeria,Goalkeeper
+JaimePENEDO1,Panama,Goalkeeper
+MichaelMURILLO2,Panama,Defender
+HaroldCUMMINGS3,Panama,Defender
+FidelESCOBAR4,Panama,Defender
+RomanTORRES5,Panama,Defender
+GabrielGOMEZ6,Panama,Midfield
+BlasPEREZ7,Panama,Forward
+EdgarBARCENAS8,Panama,Midfield
+GabrielTORRES9,Panama,Forward
+IsmaelDIAZ10,Panama,Forward
+ArmandoCOOPER11,Panama,Midfield
+JoseCALDERON12,Panama,Goalkeeper
+AdolfoMACHADO13,Panama,Defender
+ValentinPIMENTEL14,Panama,Midfield
+EricDAVIS15,Panama,Defender
+AbdielARROYO16,Panama,Forward
+LuisOVALLE17,Panama,Defender
+LuisTEJADA18,Panama,Forward
+RicardoAVILA19,Panama,Midfield
+AnibalGODOY20,Panama,Midfield
+JoseLuis RODRIGUEZ21,Panama,Midfield
+AlexRODRIGUEZ22,Panama,Goalkeeper
+FelipeBALOY23,Panama,Defender
+PedroGALLESE1,Peru,Goalkeeper
+AlbertoRODRIGUEZ2,Peru,Defender
+AldoCORZO3,Peru,Defender
+AndersonSANTAMARIA4,Peru,Defender
+MiguelARAUJO5,Peru,Defender
+MiguelTRAUCO6,Peru,Defender
+PaoloHURTADO7,Peru,Midfield
+ChristianCUEVA8,Peru,Midfield
+PaoloGUERRERO9,Peru,Forward
+JeffersonFARFAN10,Peru,Forward
+RaulRUIDIAZ11,Peru,Forward
+CarlosCACEDA12,Peru,Goalkeeper
+RenatoTAPIA13,Peru,Midfield
+AndyPOLO14,Peru,Midfield
+ChristianRAMOS15,Peru,Defender
+WilderCARTAGENA16,Peru,Midfield
+LuisADVINCULA17,Peru,Defender
+AndreCARRILLO18,Peru,Forward
+YoshimarYOTUN19,Peru,Midfield
+EdisonFLORES20,Peru,Forward
+JoseCARVALLO21,Peru,Goalkeeper
+NilsonLOYOLA22,Peru,Defender
+PedroAQUINO23,Peru,Midfield
+WojciechSZCZESNY1,Poland,Goalkeeper
+MichalPAZDAN2,Poland,Defender
+ArturJEDRZEJCZYK3,Poland,Defender
+ThiagoCIONEK4,Poland,Defender
+JanBEDNAREK5,Poland,Defender
+JacekGORALSKI6,Poland,Midfield
+ArkadiuszMILIK7,Poland,Forward
+KarolLINETTY8,Poland,Midfield
+LEWANDOWSKIRobert9,Poland,Forward
+GrzegorzKRYCHOWIAK10,Poland,Midfield
+KamilGROSICKI11,Poland,Midfield
+BartoszBIALKOWSKI12,Poland,Goalkeeper
+MaciejRYBUS13,Poland,Midfield
+LukaszTEODORCZYK14,Poland,Forward
+KamilGLIK15,Poland,Defender
+JakubBLASZCZYKOWSKI16,Poland,Midfield
+SlawomirPESZKO17,Poland,Midfield
+BartoszBERESZYNSKI18,Poland,Defender
+PiotrZIELINSKI19,Poland,Midfield
+LukaszPISZCZEK20,Poland,Defender
+RafalKURZAWA21,Poland,Midfield
+LukaszFABIANSKI22,Poland,Goalkeeper
+DawidKOWNACKI23,Poland,Forward
+RUIPATRICIO1,Portugal,Goalkeeper
+BRUNOALVES2,Portugal,Defender
+PEPE3,Portugal,Defender
+MANUELFERNANDES4,Portugal,Midfield
+RAPHAELGUERREIRO5,Portugal,Defender
+JOSEFONTE6,Portugal,Defender
+CRISTIANORONALDO7,Portugal,Forward
+JOAOMOUTINHO8,Portugal,Midfield
+ANDRESILVA9,Portugal,Forward
+JOAOMARIO10,Portugal,Midfield
+BERNARDOSILVA11,Portugal,Midfield
+ANTHONYLOPES12,Portugal,Goalkeeper
+RUBENDIAS13,Portugal,Defender
+WILLIAM14,Portugal,Midfield
+RICARDO15,Portugal,Defender
+BRUNOFERNANDES16,Portugal,Midfield
+GONCALOGUEDES17,Portugal,Forward
+GELSONMARTINS18,Portugal,Forward
+MARIORUI19,Portugal,Defender
+RICARDOQUARESMA20,Portugal,Forward
+CEDRIC21,Portugal,Defender
+BETO22,Portugal,Goalkeeper
+ADRIENSILVA23,Portugal,Midfield
+IgorAKINFEEV1,Russia,Goalkeeper
+MARIOFERNANDES2,Russia,Defender
+IlyaKUTEPOV3,Russia,Defender
+SergeyIGNASHEVICH4,Russia,Defender
+AndreySEMENOV5,Russia,Defender
+DenisCHERYSHEV6,Russia,Midfield
+DalerKUZIAEV7,Russia,Midfield
+IuryGAZINSKY8,Russia,Midfield
+AlanDZAGOEV9,Russia,Midfield
+FedorSMOLOV10,Russia,Forward
+RomanZOBNIN11,Russia,Midfield
+AndreiLUNEV12,Russia,Goalkeeper
+FedorKUDRIASHOV13,Russia,Defender
+VladimirGRANAT14,Russia,Defender
+AlexeyMIRANCHUK15,Russia,Midfield
+AntonMIRANCHUK16,Russia,Midfield
+AleksandrGOLOVIN17,Russia,Midfield
+YuryZHIRKOV18,Russia,Midfield
+AlexanderSAMEDOV19,Russia,Midfield
+VladimirGABULOV20,Russia,Goalkeeper
+AleksandrEROKHIN21,Russia,Midfield
+ArtemDZYUBA22,Russia,Forward
+IgorSMOLNIKOV23,Russia,Defender
+AbdullahAl-Mayouf1,Saudi Arabia,Goalkeeper
+MANSOURALHARBI2,Saudi Arabia,Defender
+OSAMAHAWSAWI3,Saudi Arabia,Defender
+ALIALBULAYHI4,Saudi Arabia,Defender
+OMARHAWSAWI5,Saudi Arabia,Defender
+MOHAMMEDALBURAYK6,Saudi Arabia,Defender
+SALMANALFARAJ7,Saudi Arabia,Midfield
+YAHIAALSHEHRI8,Saudi Arabia,Midfield
+HATANBAHBRI9,Saudi Arabia,Midfield
+MOHAMMEDALSAHLAWI10,Saudi Arabia,Forward
+ABDULMALEKALKHAIBRI11,Saudi Arabia,Midfield
+MOHAMEDKANNO12,Saudi Arabia,Midfield
+YASSERALSHAHRANI13,Saudi Arabia,Defender
+ABDULLAHOTAYF14,Saudi Arabia,Midfield
+ABDULLAHALKHAIBARI15,Saudi Arabia,Midfield
+HUSSAINALMOQAHWI16,Saudi Arabia,Midfield
+TAISEERALJASSAM17,Saudi Arabia,Midfield
+SALEMALDAWSARI18,Saudi Arabia,Midfield
+FAHADALMUWALLAD19,Saudi Arabia,Forward
+MUHANNADASIRI20,Saudi Arabia,Forward
+YASSERALMOSAILEM21,Saudi Arabia,Goalkeeper
+MOHAMMEDALOWAIS22,Saudi Arabia,Goalkeeper
+MOTAZHAWSAWI23,Saudi Arabia,Defender
+AbdoulayeDIALLO1,Senegal,Goalkeeper
+AdamaMBENGUE2,Senegal,Defender
+KalidouKOULIBALY3,Senegal,Defender
+KaraMBODJI4,Senegal,Defender
+IdrissaGana GUEYE5,Senegal,Midfield
+SalifSANE6,Senegal,Midfield
+MoussaSOW7,Senegal,Forward
+CheikhouKOUYATE8,Senegal,Midfield
+MameDIOUF9,Senegal,Forward
+SadioMANE10,Senegal,Forward
+CheikhNDOYE11,Senegal,Midfield
+YoussoufSABALY12,Senegal,Defender
+AlfredNDIAYE13,Senegal,Midfield
+MoussaKONATE14,Senegal,Forward
+DiafraSAKHO15,Senegal,Forward
+KhadimNDIAYE16,Senegal,Goalkeeper
+PapeAlioune NDIAYE17,Senegal,Midfield
+IsmailaSARR18,Senegal,Forward
+MbayeNIANG19,Senegal,Forward
+KeitaBALDE20,Senegal,Forward
+LamineGASSAMA21,Senegal,Defender
+MoussaWAGUE22,Senegal,Defender
+AlfredGOMIS23,Senegal,Goalkeeper
+VladimirSTOJKOVIC1,Serbia,Goalkeeper
+AntonioRUKAVINA2,Serbia,Defender
+DuskoTOSIC3,Serbia,Defender
+LukaMILIVOJEVIC4,Serbia,Midfield
+UrosSPAJIC5,Serbia,Defender
+BranislavIVANOVIC6,Serbia,Defender
+AndrijaZIVKOVIC7,Serbia,Midfield
+AleksandarPRIJOVIC8,Serbia,Forward
+AleksandarMITROVIC9,Serbia,Forward
+DusanTADIC10,Serbia,Midfield
+AleksandarKOLAROV11,Serbia,Defender
+PredragRAJKOVIC12,Serbia,Goalkeeper
+MilosVELJKOVIC13,Serbia,Defender
+MilanRODIC14,Serbia,Defender
+NikolaMILENKOVIC15,Serbia,Defender
+MarkoGRUJIC16,Serbia,Midfield
+FilipKOSTIC17,Serbia,Midfield
+NemanjaRADONJIC18,Serbia,Forward
+LukaJOVIC19,Serbia,Forward
+SergejMILINKOVIC-SAVIC20,Serbia,Midfield
+NemanjaMATIC21,Serbia,Midfield
+AdemLJAJIC22,Serbia,Midfield
+MarkoDMITROVIC23,Serbia,Goalkeeper
+DavidDE GEA1,Spain,Goalkeeper
+DaniCARVAJAL2,Spain,Defender
+GerardPIQUE3,Spain,Defender
+NACHO4,Spain,Defender
+SergioBUSQUETS5,Spain,Midfield
+AndresINIESTA6,Spain,Midfield
+SAUL7,Spain,Midfield
+KOKE8,Spain,Midfield
+RODRIGO9,Spain,Forward
+ThiagoAlcântara10,Spain,Midfield
+LucasVAZQUEZ11,Spain,Forward
+AlvaroODRIOZOLA12,Spain,Defender
+KepaARRIZABALAGA13,Spain,Goalkeeper
+CesarAZPILICUETA14,Spain,Defender
+SergioRAMOS15,Spain,Defender
+NachoMONREAL16,Spain,Defender
+IagoASPAS17,Spain,Forward
+JordiALBA18,Spain,Defender
+DiegoCOSTA19,Spain,Forward
+MarcoASENSIO20,Spain,Midfield
+DavidSILVA21,Spain,Forward
+ISCO22,Spain,Midfield
+PepeREINA23,Spain,Goalkeeper
+RobinOLSEN1,Sweden,Goalkeeper
+MikaelLUSTIG2,Sweden,Defender
+VictorLINDELOF3,Sweden,Defender
+AndreasGRANQVIST4,Sweden,Defender
+MartinOLSSON5,Sweden,Defender
+LudwigAUGUSTINSSON6,Sweden,Defender
+SebastianLARSSON7,Sweden,Midfield
+AlbinEKDAL8,Sweden,Midfield
+MarcusBERG9,Sweden,Forward
+EmilFORSBERG10,Sweden,Midfield
+JohnGUIDETTI11,Sweden,Forward
+Karl-JohanJOHNSSON12,Sweden,Goalkeeper
+GustavSVENSSON13,Sweden,Midfield
+FilipHELANDER14,Sweden,Defender
+OscarHILJEMARK15,Sweden,Midfield
+EmilKRAFTH16,Sweden,Defender
+ViktorCLAESSON17,Sweden,Midfield
+PontusJANSSON18,Sweden,Defender
+MarcusROHDEN19,Sweden,Midfield
+OlaTOIVONEN20,Sweden,Forward
+JimmyDURMAZ21,Sweden,Midfield
+IsaacKiese THELIN22,Sweden,Forward
+KristofferNORDFELDT23,Sweden,Goalkeeper
+YannSOMMER1,Switzerland,Goalkeeper
+StephanLICHTSTEINER2,Switzerland,Defender
+FrancoisMOUBANDJE3,Switzerland,Defender
+NicoELVEDI4,Switzerland,Defender
+ManuelAKANJI5,Switzerland,Defender
+MichaelLANG6,Switzerland,Defender
+BreelEMBOLO7,Switzerland,Forward
+RemoFREULER8,Switzerland,Midfield
+HarisSEFEROVIC9,Switzerland,Forward
+GranitXHAKA10,Switzerland,Midfield
+ValonBEHRAMI11,Switzerland,Midfield
+YvonMVOGO12,Switzerland,Goalkeeper
+RicardoRODRIGUEZ13,Switzerland,Defender
+StevenZUBER14,Switzerland,Midfield
+BlerimDZEMAILI15,Switzerland,Midfield
+GelsonFERNANDES16,Switzerland,Midfield
+DenisZAKARIA17,Switzerland,Midfield
+MarioGAVRANOVIC18,Switzerland,Forward
+JosipDRMIC19,Switzerland,Forward
+JohanDJOUROU20,Switzerland,Defender
+RomanBUERKI21,Switzerland,Goalkeeper
+FabianSCHAER22,Switzerland,Defender
+XherdanSHAQIRI23,Switzerland,Midfield
+BENMUSTAPHA Farouk1,Tunisia,Goalkeeper
+SyamBEN YOUSSEF2,Tunisia,Defender
+YohanBEN ALOUANE3,Tunisia,Defender
+MERIAHYassine4,Tunisia,Defender
+OussamaHADDADI5,Tunisia,Defender
+RamiBEDOUI6,Tunisia,Defender
+SaifeddineKHAOUI7,Tunisia,Forward
+BENYOUSSEF Fakhreddine8,Tunisia,Forward
+AniceBADRI9,Tunisia,Midfield
+WahbiKHAZRI10,Tunisia,Forward
+DylanBRONN11,Tunisia,Defender
+MAALOULAli12,Tunisia,Defender
+SASSIFerjani13,Tunisia,Midfield
+MohamedBEN AMOR14,Tunisia,Midfield
+AhmedKHALIL15,Tunisia,Forward
+AymenMATHLOUTHI16,Tunisia,Goalkeeper
+EllyesSKHIRI17,Tunisia,Midfield
+BassemSRARFI18,Tunisia,Forward
+SaberKHALIFA19,Tunisia,Forward
+CHAALELIGhaylen20,Tunisia,Forward
+HamdiNAGUEZ21,Tunisia,Defender
+HASSENMouez22,Tunisia,Goalkeeper
+SLITINaim23,Tunisia,Forward
+FernandoMUSLERA1,Uruguay,Goalkeeper
+JoseGIMENEZ2,Uruguay,Defender
+DiegoGODIN3,Uruguay,Defender
+GuillermoVARELA4,Uruguay,Defender
+CarlosSANCHEZ5,Uruguay,Midfield
+RodrigoBENTANCUR6,Uruguay,Midfield
+CristianRODRIGUEZ7,Uruguay,Midfield
+NahitanNANDEZ8,Uruguay,Midfield
+LuisSUAREZ9,Uruguay,Forward
+GiorgianDE ARRASCAETA10,Uruguay,Forward
+CristhianSTUANI11,Uruguay,Forward
+MartinCAMPANA12,Uruguay,Goalkeeper
+GastonSILVA13,Uruguay,Defender
+LucasTORREIRA14,Uruguay,Midfield
+MatiasVECINO15,Uruguay,Midfield
+MaximilianoPEREIRA16,Uruguay,Defender
+DiegoLAXALT17,Uruguay,Midfield
+MaximilianoGOMEZ18,Uruguay,Forward
+SebastianCOATES19,Uruguay,Defender
+JonathanURRETAVISCAYA20,Uruguay,Forward
+EdinsonCAVANI21,Uruguay,Forward
+MartinCACERES22,Uruguay,Defender
+MartinSILVA23,Uruguay,Goalkeeper
