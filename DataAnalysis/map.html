@@ -1,0 +1,688 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_394c4459e2795143af3c4b29068a3239 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_394c4459e2795143af3c4b29068a3239" ></div>
+        
+</body>
+<script>    
+    
+            var map_394c4459e2795143af3c4b29068a3239 = L.map(
+                "map_394c4459e2795143af3c4b29068a3239",
+                {
+                    center: [37.5502, 126.982],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 12,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_970771a4d330b77d893c669646374f09 = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_394c4459e2795143af3c4b29068a3239);
+        
+    
+            var circle_marker_4cbf19ab03db2a540676e1aae99df2e6 = L.circleMarker(
+                [37.51731, 127.0475],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 37.22, "stroke": true, "weight": 3}
+            ).addTo(map_394c4459e2795143af3c4b29068a3239);
+        
+    
+            var marker_11383db6a53f3a1ca22ec4f4f74852cd = L.marker(
+                [37.51731, 127.0475],
+                {}
+            ).addTo(map_394c4459e2795143af3c4b29068a3239);
+        
+    
+        var popup_81e83fb37c6414b29faa8e43b0e6f6a7 = L.popup({"maxWidth": 100, "minWidth": 100});
+
+        
+            var html_503143b421b274ad24f6bb82938bac6c = $(`<div id="html_503143b421b274ad24f6bb82938bac6c" style="width: 100.0%; height: 100.0%;"><h4>강남구</h4><p>발생건수: 3722.0</p><p>부상자수: 5182.0</p><p>사망자수: 14.0</p></div>`)[0];
+            popup_81e83fb37c6414b29faa8e43b0e6f6a7.setContent(html_503143b421b274ad24f6bb82938bac6c);
+        
+
+        marker_11383db6a53f3a1ca22ec4f4f74852cd.bindPopup(popup_81e83fb37c6414b29faa8e43b0e6f6a7)
+        ;
+
+        
+    
+    
+            var circle_marker_698d4dd5554d807f7776596b0ec415ba = L.circleMarker(
+                [37.53013, 127.1238],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 14.14, "stroke": true, "weight": 3}
+            ).addTo(map_394c4459e2795143af3c4b29068a3239);
+        
+    
+            var marker_3fe7c91d15247d2e74461a2049ec5988 = L.marker(
+                [37.53013, 127.1238],
+                {}
+            ).addTo(map_394c4459e2795143af3c4b29068a3239);
+        
+    
+        var popup_d00488757d6b482e3ceb01a38e4d3a56 = L.popup({"maxWidth": 100, "minWidth": 100});
+
+        
+            var html_9d7e66bfbf87abb88257e7133571414d = $(`<div id="html_9d7e66bfbf87abb88257e7133571414d" style="width: 100.0%; height: 100.0%;"><h4>강동구</h4><p>발생건수: 1414.0</p><p>부상자수: 1910.0</p><p>사망자수: 11.0</p></div>`)[0];
+            popup_d00488757d6b482e3ceb01a38e4d3a56.setContent(html_9d7e66bfbf87abb88257e7133571414d);
+        
+
+        marker_3fe7c91d15247d2e74461a2049ec5988.bindPopup(popup_d00488757d6b482e3ceb01a38e4d3a56)
+        ;
+
+        
+    
+    
+            var circle_marker_1ef12855a066ee0ba316169b0014662e = L.circleMarker(
+                [37.63975, 127.0255],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 12.77, "stroke": true, "weight": 3}
+            ).addTo(map_394c4459e2795143af3c4b29068a3239);
+        
+    
+            var marker_e9c0accc8021552230afadff79ea9a09 = L.marker(
+                [37.63975, 127.0255],
+                {}
+            ).addTo(map_394c4459e2795143af3c4b29068a3239);
+        
+    
+        var popup_f5be79b1dae0b614337ce8f36286113f = L.popup({"maxWidth": 100, "minWidth": 100});
+
+        
+            var html_04fdacacffba9eb7211d268f977f0422 = $(`<div id="html_04fdacacffba9eb7211d268f977f0422" style="width: 100.0%; height: 100.0%;"><h4>강북구</h4><p>발생건수: 1277.0</p><p>부상자수: 1706.0</p><p>사망자수: 7.0</p></div>`)[0];
+            popup_f5be79b1dae0b614337ce8f36286113f.setContent(html_04fdacacffba9eb7211d268f977f0422);
+        
+
+        marker_e9c0accc8021552230afadff79ea9a09.bindPopup(popup_f5be79b1dae0b614337ce8f36286113f)
+        ;
+
+        
+    
+    
+            var circle_marker_c510f9a15adc2b4793defc6a31aa4f75 = L.circleMarker(
+                [37.55094, 126.8496],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 18.29, "stroke": true, "weight": 3}
+            ).addTo(map_394c4459e2795143af3c4b29068a3239);
+        
+    
+            var marker_dcd819907b6025dce99b4db43c7566fb = L.marker(
+                [37.55094, 126.8496],
+                {}
+            ).addTo(map_394c4459e2795143af3c4b29068a3239);
+        
+    
+        var popup_0a3f1e30d53c52af9d3de41d12a9204f = L.popup({"maxWidth": 100, "minWidth": 100});
+
+        
+            var html_b9698273241b2659ab6fd45270637893 = $(`<div id="html_b9698273241b2659ab6fd45270637893" style="width: 100.0%; height: 100.0%;"><h4>강서구</h4><p>발생건수: 1829.0</p><p>부상자수: 2491.0</p><p>사망자수: 20.0</p></div>`)[0];
+            popup_0a3f1e30d53c52af9d3de41d12a9204f.setContent(html_b9698273241b2659ab6fd45270637893);
+        
+
+        marker_dcd819907b6025dce99b4db43c7566fb.bindPopup(popup_0a3f1e30d53c52af9d3de41d12a9204f)
+        ;
+
+        
+    
+    
+            var circle_marker_36c5290d19c66a004b8a40ce9bec75e3 = L.circleMarker(
+                [37.47834, 126.9515],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 13.63, "stroke": true, "weight": 3}
+            ).addTo(map_394c4459e2795143af3c4b29068a3239);
+        
+    
+            var marker_518f38b0068e64a3931c6a94b8194427 = L.marker(
+                [37.47834, 126.9515],
+                {}
+            ).addTo(map_394c4459e2795143af3c4b29068a3239);
+        
+    
+        var popup_e27c7d19224b2a28f901e7be04111e0a = L.popup({"maxWidth": 100, "minWidth": 100});
+
+        
+            var html_8d69967ed1fd2ac907ecfccd4818402b = $(`<div id="html_8d69967ed1fd2ac907ecfccd4818402b" style="width: 100.0%; height: 100.0%;"><h4>관악구</h4><p>발생건수: 1363.0</p><p>부상자수: 1755.0</p><p>사망자수: 10.0</p></div>`)[0];
+            popup_e27c7d19224b2a28f901e7be04111e0a.setContent(html_8d69967ed1fd2ac907ecfccd4818402b);
+        
+
+        marker_518f38b0068e64a3931c6a94b8194427.bindPopup(popup_e27c7d19224b2a28f901e7be04111e0a)
+        ;
+
+        
+    
+    
+            var circle_marker_b7557c74a19554aef23a47d235f55fbb = L.circleMarker(
+                [37.53862, 127.0824],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 9.73, "stroke": true, "weight": 3}
+            ).addTo(map_394c4459e2795143af3c4b29068a3239);
+        
+    
+            var marker_2ab610628837f052b9c1963a6c46ef97 = L.marker(
+                [37.53862, 127.0824],
+                {}
+            ).addTo(map_394c4459e2795143af3c4b29068a3239);
+        
+    
+        var popup_166ac58c8aa0d09af6bc5c7152f55d1d = L.popup({"maxWidth": 100, "minWidth": 100});
+
+        
+            var html_cadef6310ec4bac97c0e1571b2ec2bce = $(`<div id="html_cadef6310ec4bac97c0e1571b2ec2bce" style="width: 100.0%; height: 100.0%;"><h4>광진구</h4><p>발생건수: 973.0</p><p>부상자수: 1316.0</p><p>사망자수: 3.0</p></div>`)[0];
+            popup_166ac58c8aa0d09af6bc5c7152f55d1d.setContent(html_cadef6310ec4bac97c0e1571b2ec2bce);
+        
+
+        marker_2ab610628837f052b9c1963a6c46ef97.bindPopup(popup_166ac58c8aa0d09af6bc5c7152f55d1d)
+        ;
+
+        
+    
+    
+            var circle_marker_2a1b7a0dc6c22198f0fe9005c97f0098 = L.circleMarker(
+                [37.49547, 126.8875],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 15.290000000000001, "stroke": true, "weight": 3}
+            ).addTo(map_394c4459e2795143af3c4b29068a3239);
+        
+    
+            var marker_9a256835e73ac3dd0c92a1691f3c4069 = L.marker(
+                [37.49547, 126.8875],
+                {}
+            ).addTo(map_394c4459e2795143af3c4b29068a3239);
+        
+    
+        var popup_239d8b97f7a426ea7016131dd2bde37c = L.popup({"maxWidth": 100, "minWidth": 100});
+
+        
+            var html_a1ea1c234a757eb6cc016eeea087ffbe = $(`<div id="html_a1ea1c234a757eb6cc016eeea087ffbe" style="width: 100.0%; height: 100.0%;"><h4>구로구</h4><p>발생건수: 1529.0</p><p>부상자수: 2096.0</p><p>사망자수: 13.0</p></div>`)[0];
+            popup_239d8b97f7a426ea7016131dd2bde37c.setContent(html_a1ea1c234a757eb6cc016eeea087ffbe);
+        
+
+        marker_9a256835e73ac3dd0c92a1691f3c4069.bindPopup(popup_239d8b97f7a426ea7016131dd2bde37c)
+        ;
+
+        
+    
+    
+            var circle_marker_bceb15cbf182236e4a559c61ea2ee188 = L.circleMarker(
+                [37.45708, 126.8957],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 9.200000000000001, "stroke": true, "weight": 3}
+            ).addTo(map_394c4459e2795143af3c4b29068a3239);
+        
+    
+            var marker_459866fcf0754f98bac34159aa65bcf1 = L.marker(
+                [37.45708, 126.8957],
+                {}
+            ).addTo(map_394c4459e2795143af3c4b29068a3239);
+        
+    
+        var popup_5bd21ad81380f23411ad0ed679a0d1f7 = L.popup({"maxWidth": 100, "minWidth": 100});
+
+        
+            var html_e46996d7bd66a617c60b795044d4a19e = $(`<div id="html_e46996d7bd66a617c60b795044d4a19e" style="width: 100.0%; height: 100.0%;"><h4>금천구</h4><p>발생건수: 920.0</p><p>부상자수: 1353.0</p><p>사망자수: 9.0</p></div>`)[0];
+            popup_5bd21ad81380f23411ad0ed679a0d1f7.setContent(html_e46996d7bd66a617c60b795044d4a19e);
+        
+
+        marker_459866fcf0754f98bac34159aa65bcf1.bindPopup(popup_5bd21ad81380f23411ad0ed679a0d1f7)
+        ;
+
+        
+    
+    
+            var circle_marker_1f3f53fe42fa5cab412f8b53502f37ab = L.circleMarker(
+                [37.65437, 127.0565],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 17.03, "stroke": true, "weight": 3}
+            ).addTo(map_394c4459e2795143af3c4b29068a3239);
+        
+    
+            var marker_93e46d4e4645d22986ac0d4cffe8f96b = L.marker(
+                [37.65437, 127.0565],
+                {}
+            ).addTo(map_394c4459e2795143af3c4b29068a3239);
+        
+    
+        var popup_ad0ac0289eb8eb18c4638eee0d7c42d8 = L.popup({"maxWidth": 100, "minWidth": 100});
+
+        
+            var html_226eb249b8d0e0779aeb70f9d6d900b9 = $(`<div id="html_226eb249b8d0e0779aeb70f9d6d900b9" style="width: 100.0%; height: 100.0%;"><h4>노원구</h4><p>발생건수: 1703.0</p><p>부상자수: 2302.0</p><p>사망자수: 8.0</p></div>`)[0];
+            popup_ad0ac0289eb8eb18c4638eee0d7c42d8.setContent(html_226eb249b8d0e0779aeb70f9d6d900b9);
+        
+
+        marker_93e46d4e4645d22986ac0d4cffe8f96b.bindPopup(popup_ad0ac0289eb8eb18c4638eee0d7c42d8)
+        ;
+
+        
+    
+    
+            var circle_marker_cad62e952c566b81d4021487fc6fdef1 = L.circleMarker(
+                [37.66873, 127.0478],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8.52, "stroke": true, "weight": 3}
+            ).addTo(map_394c4459e2795143af3c4b29068a3239);
+        
+    
+            var marker_d21c2d54bcf09399a54e05b47f8c855a = L.marker(
+                [37.66873, 127.0478],
+                {}
+            ).addTo(map_394c4459e2795143af3c4b29068a3239);
+        
+    
+        var popup_fdc9dcaca7d2d33687b496ad0857e602 = L.popup({"maxWidth": 100, "minWidth": 100});
+
+        
+            var html_17000899736361427a6003591220bf02 = $(`<div id="html_17000899736361427a6003591220bf02" style="width: 100.0%; height: 100.0%;"><h4>도봉구</h4><p>발생건수: 852.0</p><p>부상자수: 1163.0</p><p>사망자수: 4.0</p></div>`)[0];
+            popup_fdc9dcaca7d2d33687b496ad0857e602.setContent(html_17000899736361427a6003591220bf02);
+        
+
+        marker_d21c2d54bcf09399a54e05b47f8c855a.bindPopup(popup_fdc9dcaca7d2d33687b496ad0857e602)
+        ;
+
+        
+    
+    
+            var circle_marker_fddbf565ceccca289b920214c01e25af = L.circleMarker(
+                [37.57452, 127.0396],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 15.65, "stroke": true, "weight": 3}
+            ).addTo(map_394c4459e2795143af3c4b29068a3239);
+        
+    
+            var marker_1781e6f162c99c5e3d8fd90c38f2106b = L.marker(
+                [37.57452, 127.0396],
+                {}
+            ).addTo(map_394c4459e2795143af3c4b29068a3239);
+        
+    
+        var popup_73eef86eda6754204daca0d305a8d824 = L.popup({"maxWidth": 100, "minWidth": 100});
+
+        
+            var html_2bc3fb958e169459284edccbec83ad0b = $(`<div id="html_2bc3fb958e169459284edccbec83ad0b" style="width: 100.0%; height: 100.0%;"><h4>동대문구</h4><p>발생건수: 1565.0</p><p>부상자수: 1988.0</p><p>사망자수: 15.0</p></div>`)[0];
+            popup_73eef86eda6754204daca0d305a8d824.setContent(html_2bc3fb958e169459284edccbec83ad0b);
+        
+
+        marker_1781e6f162c99c5e3d8fd90c38f2106b.bindPopup(popup_73eef86eda6754204daca0d305a8d824)
+        ;
+
+        
+    
+    
+            var circle_marker_407e8da3b804ac2b7bc175083a7ddf52 = L.circleMarker(
+                [37.51243, 126.9393],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 14.06, "stroke": true, "weight": 3}
+            ).addTo(map_394c4459e2795143af3c4b29068a3239);
+        
+    
+            var marker_f19bcb9854172ffd2068ce92acb93134 = L.marker(
+                [37.51243, 126.9393],
+                {}
+            ).addTo(map_394c4459e2795143af3c4b29068a3239);
+        
+    
+        var popup_d7c2716b3deadd6eba1429090397d179 = L.popup({"maxWidth": 100, "minWidth": 100});
+
+        
+            var html_9ece27f862f9814ef21814461578a506 = $(`<div id="html_9ece27f862f9814ef21814461578a506" style="width: 100.0%; height: 100.0%;"><h4>동작구</h4><p>발생건수: 1406.0</p><p>부상자수: 2021.0</p><p>사망자수: 5.0</p></div>`)[0];
+            popup_d7c2716b3deadd6eba1429090397d179.setContent(html_9ece27f862f9814ef21814461578a506);
+        
+
+        marker_f19bcb9854172ffd2068ce92acb93134.bindPopup(popup_d7c2716b3deadd6eba1429090397d179)
+        ;
+
+        
+    
+    
+            var circle_marker_6805e3fd1e45b97f2abf39e20e819607 = L.circleMarker(
+                [37.56631, 126.9016],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 14.94, "stroke": true, "weight": 3}
+            ).addTo(map_394c4459e2795143af3c4b29068a3239);
+        
+    
+            var marker_33a4a5d73e7089d1899f14619fe1dbc3 = L.marker(
+                [37.56631, 126.9016],
+                {}
+            ).addTo(map_394c4459e2795143af3c4b29068a3239);
+        
+    
+        var popup_e4459250ea28749eacfe4885ca490074 = L.popup({"maxWidth": 100, "minWidth": 100});
+
+        
+            var html_41affe3dc0d5666c73fc7a113e3ae96f = $(`<div id="html_41affe3dc0d5666c73fc7a113e3ae96f" style="width: 100.0%; height: 100.0%;"><h4>마포구</h4><p>발생건수: 1494.0</p><p>부상자수: 2123.0</p><p>사망자수: 7.0</p></div>`)[0];
+            popup_e4459250ea28749eacfe4885ca490074.setContent(html_41affe3dc0d5666c73fc7a113e3ae96f);
+        
+
+        marker_33a4a5d73e7089d1899f14619fe1dbc3.bindPopup(popup_e4459250ea28749eacfe4885ca490074)
+        ;
+
+        
+    
+    
+            var circle_marker_fe4b9113dc3fca4cf46cf7e9270da747 = L.circleMarker(
+                [37.57908, 126.9368],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 11.13, "stroke": true, "weight": 3}
+            ).addTo(map_394c4459e2795143af3c4b29068a3239);
+        
+    
+            var marker_fd3069d54629d3ef583d45470d1df19c = L.marker(
+                [37.57908, 126.9368],
+                {}
+            ).addTo(map_394c4459e2795143af3c4b29068a3239);
+        
+    
+        var popup_ed6b07edc8da2d6020e57eeec611823e = L.popup({"maxWidth": 100, "minWidth": 100});
+
+        
+            var html_0551982f26588a01a57238433ccb7da4 = $(`<div id="html_0551982f26588a01a57238433ccb7da4" style="width: 100.0%; height: 100.0%;"><h4>서대문구</h4><p>발생건수: 1113.0</p><p>부상자수: 1609.0</p><p>사망자수: 14.0</p></div>`)[0];
+            popup_ed6b07edc8da2d6020e57eeec611823e.setContent(html_0551982f26588a01a57238433ccb7da4);
+        
+
+        marker_fd3069d54629d3ef583d45470d1df19c.bindPopup(popup_ed6b07edc8da2d6020e57eeec611823e)
+        ;
+
+        
+    
+    
+            var circle_marker_ad8569ecd66aacd3f0bdd4ec295444ac = L.circleMarker(
+                [37.484, 127.033],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 24.18, "stroke": true, "weight": 3}
+            ).addTo(map_394c4459e2795143af3c4b29068a3239);
+        
+    
+            var marker_9a867c42ddfbe6e3a934ee997a470ba2 = L.marker(
+                [37.484, 127.033],
+                {}
+            ).addTo(map_394c4459e2795143af3c4b29068a3239);
+        
+    
+        var popup_b38fbfbed05ac26a878f9d9792b29c12 = L.popup({"maxWidth": 100, "minWidth": 100});
+
+        
+            var html_f747cc7aa3ae126d277a28bc3c11ef3e = $(`<div id="html_f747cc7aa3ae126d277a28bc3c11ef3e" style="width: 100.0%; height: 100.0%;"><h4>서초구</h4><p>발생건수: 2418.0</p><p>부상자수: 3530.0</p><p>사망자수: 14.0</p></div>`)[0];
+            popup_b38fbfbed05ac26a878f9d9792b29c12.setContent(html_f747cc7aa3ae126d277a28bc3c11ef3e);
+        
+
+        marker_9a867c42ddfbe6e3a934ee997a470ba2.bindPopup(popup_b38fbfbed05ac26a878f9d9792b29c12)
+        ;
+
+        
+    
+    
+            var circle_marker_3529495fe578bf4b4c1a211f8026690a = L.circleMarker(
+                [37.56346, 127.0368],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10.91, "stroke": true, "weight": 3}
+            ).addTo(map_394c4459e2795143af3c4b29068a3239);
+        
+    
+            var marker_03f7ce03f8a7d5e727de72d2742f52d8 = L.marker(
+                [37.56346, 127.0368],
+                {}
+            ).addTo(map_394c4459e2795143af3c4b29068a3239);
+        
+    
+        var popup_4f12a2a1c5baf410ab5fdc4a3c317440 = L.popup({"maxWidth": 100, "minWidth": 100});
+
+        
+            var html_8f7f47a7c13668445b07cf67e747101f = $(`<div id="html_8f7f47a7c13668445b07cf67e747101f" style="width: 100.0%; height: 100.0%;"><h4>성동구</h4><p>발생건수: 1091.0</p><p>부상자수: 1439.0</p><p>사망자수: 13.0</p></div>`)[0];
+            popup_4f12a2a1c5baf410ab5fdc4a3c317440.setContent(html_8f7f47a7c13668445b07cf67e747101f);
+        
+
+        marker_03f7ce03f8a7d5e727de72d2742f52d8.bindPopup(popup_4f12a2a1c5baf410ab5fdc4a3c317440)
+        ;
+
+        
+    
+    
+            var circle_marker_4a5697dccc506872a8f41d8394c9295e = L.circleMarker(
+                [37.58936, 127.0167],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 15.09, "stroke": true, "weight": 3}
+            ).addTo(map_394c4459e2795143af3c4b29068a3239);
+        
+    
+            var marker_79afcfa6c9726bdfe063b3001cbf29e4 = L.marker(
+                [37.58936, 127.0167],
+                {}
+            ).addTo(map_394c4459e2795143af3c4b29068a3239);
+        
+    
+        var popup_315f8975dbd3398c66a9ccca2194c18a = L.popup({"maxWidth": 100, "minWidth": 100});
+
+        
+            var html_8342dcf1f691af4650ea8ef1e28da75c = $(`<div id="html_8342dcf1f691af4650ea8ef1e28da75c" style="width: 100.0%; height: 100.0%;"><h4>성북구</h4><p>발생건수: 1509.0</p><p>부상자수: 2007.0</p><p>사망자수: 8.0</p></div>`)[0];
+            popup_315f8975dbd3398c66a9ccca2194c18a.setContent(html_8342dcf1f691af4650ea8ef1e28da75c);
+        
+
+        marker_79afcfa6c9726bdfe063b3001cbf29e4.bindPopup(popup_315f8975dbd3398c66a9ccca2194c18a)
+        ;
+
+        
+    
+    
+            var circle_marker_aef80dfa6232edb9d1c8bc7454af0b00 = L.circleMarker(
+                [37.51448, 127.1059],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 28.92, "stroke": true, "weight": 3}
+            ).addTo(map_394c4459e2795143af3c4b29068a3239);
+        
+    
+            var marker_dca892962f11cd0220f8d81fcdf3dd6e = L.marker(
+                [37.51448, 127.1059],
+                {}
+            ).addTo(map_394c4459e2795143af3c4b29068a3239);
+        
+    
+        var popup_844a1fbfb37b767fc64e255936e12355 = L.popup({"maxWidth": 100, "minWidth": 100});
+
+        
+            var html_100f1c894e26b9f83694efdb526485be = $(`<div id="html_100f1c894e26b9f83694efdb526485be" style="width: 100.0%; height: 100.0%;"><h4>송파구</h4><p>발생건수: 2892.0</p><p>부상자수: 4003.0</p><p>사망자수: 13.0</p></div>`)[0];
+            popup_844a1fbfb37b767fc64e255936e12355.setContent(html_100f1c894e26b9f83694efdb526485be);
+        
+
+        marker_dca892962f11cd0220f8d81fcdf3dd6e.bindPopup(popup_844a1fbfb37b767fc64e255936e12355)
+        ;
+
+        
+    
+    
+            var circle_marker_178059372c47d5f8ca1a4fbdea1f5f0f = L.circleMarker(
+                [37.51702, 126.8666],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 15.06, "stroke": true, "weight": 3}
+            ).addTo(map_394c4459e2795143af3c4b29068a3239);
+        
+    
+            var marker_02bbd3df97bdb8d1114906cf2d1e300e = L.marker(
+                [37.51702, 126.8666],
+                {}
+            ).addTo(map_394c4459e2795143af3c4b29068a3239);
+        
+    
+        var popup_280e00f67df64f27c73df3206e45f2cd = L.popup({"maxWidth": 100, "minWidth": 100});
+
+        
+            var html_8b8fdc019004e771b4969e6dde360923 = $(`<div id="html_8b8fdc019004e771b4969e6dde360923" style="width: 100.0%; height: 100.0%;"><h4>양천구</h4><p>발생건수: 1506.0</p><p>부상자수: 2085.0</p><p>사망자수: 11.0</p></div>`)[0];
+            popup_280e00f67df64f27c73df3206e45f2cd.setContent(html_8b8fdc019004e771b4969e6dde360923);
+        
+
+        marker_02bbd3df97bdb8d1114906cf2d1e300e.bindPopup(popup_280e00f67df64f27c73df3206e45f2cd)
+        ;
+
+        
+    
+    
+            var circle_marker_217ca79c0d44f53005a4487280415b1b = L.circleMarker(
+                [37.52582, 126.8966],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 24.39, "stroke": true, "weight": 3}
+            ).addTo(map_394c4459e2795143af3c4b29068a3239);
+        
+    
+            var marker_ac4a36b0df065484626a751365edc235 = L.marker(
+                [37.52582, 126.8966],
+                {}
+            ).addTo(map_394c4459e2795143af3c4b29068a3239);
+        
+    
+        var popup_0e03fc4dfc3998150475a9af40c9b794 = L.popup({"maxWidth": 100, "minWidth": 100});
+
+        
+            var html_0720f5b6a36c4df09df68c5bc84f692d = $(`<div id="html_0720f5b6a36c4df09df68c5bc84f692d" style="width: 100.0%; height: 100.0%;"><h4>영등포구</h4><p>발생건수: 2439.0</p><p>부상자수: 3451.0</p><p>사망자수: 11.0</p></div>`)[0];
+            popup_0e03fc4dfc3998150475a9af40c9b794.setContent(html_0720f5b6a36c4df09df68c5bc84f692d);
+        
+
+        marker_ac4a36b0df065484626a751365edc235.bindPopup(popup_0e03fc4dfc3998150475a9af40c9b794)
+        ;
+
+        
+    
+    
+            var circle_marker_2cc6f2e82eb17458958bfc5d619a7d65 = L.circleMarker(
+                [37.53254, 126.9904],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 11.870000000000001, "stroke": true, "weight": 3}
+            ).addTo(map_394c4459e2795143af3c4b29068a3239);
+        
+    
+            var marker_918bacd26458cb984df23fa75313f7f7 = L.marker(
+                [37.53254, 126.9904],
+                {}
+            ).addTo(map_394c4459e2795143af3c4b29068a3239);
+        
+    
+        var popup_1a0cb3f27e051d50c37bd8a0cf4388a4 = L.popup({"maxWidth": 100, "minWidth": 100});
+
+        
+            var html_f204039dbd61db588189bba904b1e56c = $(`<div id="html_f204039dbd61db588189bba904b1e56c" style="width: 100.0%; height: 100.0%;"><h4>용산구</h4><p>발생건수: 1187.0</p><p>부상자수: 1614.0</p><p>사망자수: 10.0</p></div>`)[0];
+            popup_1a0cb3f27e051d50c37bd8a0cf4388a4.setContent(html_f204039dbd61db588189bba904b1e56c);
+        
+
+        marker_918bacd26458cb984df23fa75313f7f7.bindPopup(popup_1a0cb3f27e051d50c37bd8a0cf4388a4)
+        ;
+
+        
+    
+    
+            var circle_marker_2b4c6ebd4cb89e3f136a812b3018a887 = L.circleMarker(
+                [37.60278, 126.9292],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 11.19, "stroke": true, "weight": 3}
+            ).addTo(map_394c4459e2795143af3c4b29068a3239);
+        
+    
+            var marker_09f53b1d47a2fa5954ed8c8d32246e20 = L.marker(
+                [37.60278, 126.9292],
+                {}
+            ).addTo(map_394c4459e2795143af3c4b29068a3239);
+        
+    
+        var popup_5931312fb8e64e4465c6dcb305d2dedb = L.popup({"maxWidth": 100, "minWidth": 100});
+
+        
+            var html_b64589c6fc8e0fb7a8bed4c86ccff83c = $(`<div id="html_b64589c6fc8e0fb7a8bed4c86ccff83c" style="width: 100.0%; height: 100.0%;"><h4>은평구</h4><p>발생건수: 1119.0</p><p>부상자수: 1464.0</p><p>사망자수: 7.0</p></div>`)[0];
+            popup_5931312fb8e64e4465c6dcb305d2dedb.setContent(html_b64589c6fc8e0fb7a8bed4c86ccff83c);
+        
+
+        marker_09f53b1d47a2fa5954ed8c8d32246e20.bindPopup(popup_5931312fb8e64e4465c6dcb305d2dedb)
+        ;
+
+        
+    
+    
+            var circle_marker_9f288e3a4e07a15b336d4c0457accdd1 = L.circleMarker(
+                [37.57323, 126.9793],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 11.33, "stroke": true, "weight": 3}
+            ).addTo(map_394c4459e2795143af3c4b29068a3239);
+        
+    
+            var marker_b57054eb787c50f5c2ccc9b62c124744 = L.marker(
+                [37.57323, 126.9793],
+                {}
+            ).addTo(map_394c4459e2795143af3c4b29068a3239);
+        
+    
+        var popup_f890659a410254a963fea04b44dc0e8f = L.popup({"maxWidth": 100, "minWidth": 100});
+
+        
+            var html_d10bbf51b3d5f5c1acbf58523fe34576 = $(`<div id="html_d10bbf51b3d5f5c1acbf58523fe34576" style="width: 100.0%; height: 100.0%;"><h4>종로구</h4><p>발생건수: 1133.0</p><p>부상자수: 1559.0</p><p>사망자수: 6.0</p></div>`)[0];
+            popup_f890659a410254a963fea04b44dc0e8f.setContent(html_d10bbf51b3d5f5c1acbf58523fe34576);
+        
+
+        marker_b57054eb787c50f5c2ccc9b62c124744.bindPopup(popup_f890659a410254a963fea04b44dc0e8f)
+        ;
+
+        
+    
+    
+            var circle_marker_b12b6d73bdf5af9597ddd6020dc41751 = L.circleMarker(
+                [37.55273, 127.0032],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 11.84, "stroke": true, "weight": 3}
+            ).addTo(map_394c4459e2795143af3c4b29068a3239);
+        
+    
+            var marker_4e125c41fd4c74909af93fee36e6a3d8 = L.marker(
+                [37.55273, 127.0032],
+                {}
+            ).addTo(map_394c4459e2795143af3c4b29068a3239);
+        
+    
+        var popup_7d1b726f90009013cbeba20283d2b2b5 = L.popup({"maxWidth": 100, "minWidth": 100});
+
+        
+            var html_dba0172f002e4dac86998ea9a2eaeb8c = $(`<div id="html_dba0172f002e4dac86998ea9a2eaeb8c" style="width: 100.0%; height: 100.0%;"><h4>중구</h4><p>발생건수: 1184.0</p><p>부상자수: 1615.0</p><p>사망자수: 5.0</p></div>`)[0];
+            popup_7d1b726f90009013cbeba20283d2b2b5.setContent(html_dba0172f002e4dac86998ea9a2eaeb8c);
+        
+
+        marker_4e125c41fd4c74909af93fee36e6a3d8.bindPopup(popup_7d1b726f90009013cbeba20283d2b2b5)
+        ;
+
+        
+    
+    
+            var circle_marker_adafa518c9f59b715bd6781586d1e6c1 = L.circleMarker(
+                [37.60652, 127.0928],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 16.2, "stroke": true, "weight": 3}
+            ).addTo(map_394c4459e2795143af3c4b29068a3239);
+        
+    
+            var marker_f41a615cf6dde49452009f1bac67d35d = L.marker(
+                [37.60652, 127.0928],
+                {}
+            ).addTo(map_394c4459e2795143af3c4b29068a3239);
+        
+    
+        var popup_0bab630d880ee3ee7b725654b865a93d = L.popup({"maxWidth": 100, "minWidth": 100});
+
+        
+            var html_5c46043b82563d5ade1b6b916365ec69 = $(`<div id="html_5c46043b82563d5ade1b6b916365ec69" style="width: 100.0%; height: 100.0%;"><h4>중랑구</h4><p>발생건수: 1620.0</p><p>부상자수: 2122.0</p><p>사망자수: 12.0</p></div>`)[0];
+            popup_0bab630d880ee3ee7b725654b865a93d.setContent(html_5c46043b82563d5ade1b6b916365ec69);
+        
+
+        marker_f41a615cf6dde49452009f1bac67d35d.bindPopup(popup_0bab630d880ee3ee7b725654b865a93d)
+        ;
+
+        
+    
+</script>
